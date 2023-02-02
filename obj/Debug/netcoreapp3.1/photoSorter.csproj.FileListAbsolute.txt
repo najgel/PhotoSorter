@@ -1,0 +1,14 @@
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\photoSorter.exe
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\photoSorter.deps.json
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\photoSorter.runtimeconfig.json
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\photoSorter.runtimeconfig.dev.json
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\photoSorter.dll
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\photoSorter.pdb
+D:\source\repos\photoSorter\obj\Debug\netcoreapp3.1\photoSorter.csprojAssemblyReference.cache
+D:\source\repos\photoSorter\obj\Debug\netcoreapp3.1\photoSorter.AssemblyInfoInputs.cache
+D:\source\repos\photoSorter\obj\Debug\netcoreapp3.1\photoSorter.AssemblyInfo.cs
+D:\source\repos\photoSorter\obj\Debug\netcoreapp3.1\photoSorter.dll
+D:\source\repos\photoSorter\obj\Debug\netcoreapp3.1\photoSorter.pdb
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\MetadataExtractor.dll
+D:\source\repos\photoSorter\bin\Debug\netcoreapp3.1\XmpCore.dll
+D:\source\repos\photoSorter\obj\Debug\netcoreapp3.1\photoSorter.csproj.CopyComplete
